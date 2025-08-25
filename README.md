@@ -37,7 +37,7 @@ This transforms raw Netflix data into **actionable insights** for strategy, mark
  
 ## 🛠 Tech Stack  
 - **Power BI** → Dashboard creation & visualization.  
-- **Kaggle Dataset** → Data source.(https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) 
+- **Kaggle Dataset** → Data source:- (https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) 
 - **Data Cleaning & Transformation** → Performed in Power BI (Power Query).  
 - **Visualization Techniques** → Funnel chart, bar chart, line chart, and card visuals.  
 
