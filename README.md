@@ -37,20 +37,20 @@ This transforms raw Netflix data into **actionable insights** for strategy, mark
  
 ## 🛠 Tech Stack  
 - **Power BI** → Dashboard creation & visualization.  
-- **Excel / CSV (Kaggle Dataset)** → Data source.  
+- **Kaggle Dataset** → Data source.(https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list) 
 - **Data Cleaning & Transformation** → Performed in Power BI (Power Query).  
 - **Visualization Techniques** → Funnel chart, bar chart, line chart, and card visuals.  
 
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](./images/dashboard1.png)
+![Dashboard Overview](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
 
 ### Country, Language & Genre Analysis
-![Country Language Genre](./images/dashboard2.png)
+![Country Language Genre](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Insights.png)
 
 ### Interactive Exploration (Movie Posters, Cast & Summary)
-![Interactive Exploration](./images/dashboard3.png)
+![Interactive Exploration](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Movies_%26_Series.png)
 
 ## 📊 Key Insights
 - Netflix has **2,386 total titles**, with **1,010 movies** and **1,376 web series**.  
@@ -65,4 +65,4 @@ It demonstrates strong skills in **data cleaning, visualization, and storytellin
 ## 👩‍💻 Author
 **Anjali Varun**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/your-github-username) | [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/anjalivarun13) | [Portfolio](https://your-portfolio-link.com)
