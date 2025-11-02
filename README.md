@@ -65,4 +65,4 @@ It demonstrates strong skills in **data cleaning, visualization, and storytellin
 ## 👩‍💻 Author
 **Anjali Varun**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/anjalivarun13) | [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/anjalivarun13) 
